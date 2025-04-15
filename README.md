@@ -1,3 +1,41 @@
+import React from 'react';
+
+export default function GeometricDash() { return ( <div className="min-h-screen bg-gradient-to-br from-[#0a0f3c] to-[#05010c] text-white p-6 font-sans"> <header className="text-center py-10"> <h1 className="text-4xl md:text-6xl font-bold text-blue-400 drop-shadow-md"> Geometric Dash — My First Ever CS Project </h1> <p className="text-lg md:text-xl mt-4 text-blue-200 italic"> "She had nothing but dreams, shaky Wi-Fi, and a stubborn heart." </p> </header>
+
+<section className="max-w-4xl mx-auto bg-[#0d1333] p-8 rounded-2xl shadow-lg border border-blue-900 mb-10">
+    <h2 className="text-2xl font-semibold text-blue-300 mb-4">The Beginning</h2>
+    <p className="mb-4 text-blue-100">
+      I started my journey with <span className="text-blue-400 font-medium">CS50x Week 0</span>, titled <em>Introduction to Computer Science</em>, taught by none other than <strong>David Malan</strong>.
+      At first, I thought Week 0 was fully focused on programming with Scratch — so I decided to dive a bit deeper.
+    </p>
+    <p className="mb-4 text-blue-100">
+      That’s when I enrolled in another course, one specially dedicated to Scratch itself: <strong>Programming with Scratch</strong>, taught by the incredible <strong>Brian Yu</strong>.
+      Both courses became my intro to the world of computer science — and my first tiny leap into a giant universe.
+    </p>
+    <p className="mb-4 text-blue-100">
+      And during <span className="font-medium">Eid, April 1st to 3rd, 2025</span> — while the world was celebrating — I was locked in, learning how to make blocks move.
+      No cap, I finished it in just <strong>3 days</strong>.
+    </p>
+  </section>
+
+  <section className="max-w-4xl mx-auto bg-[#0d1333] p-8 rounded-2xl shadow-xl border border-blue-800 mb-10">
+    <h2 className="text-2xl font-semibold text-blue-300 mb-4">The Vision</h2>
+    <ul className="list-disc list-inside text-blue-100 space-y-2">
+      <li>Dark deep-blue background — like the universe before a supernova</li>
+      <li>Smooth scroll, soft-glow cards, a block animation that jumps when hovered</li>
+      <li>Your story wrapped in glowing typography, like a letter to the stars</li>
+      <li>Built with React + Tailwind or pure HTML/CSS/JS — your choice!</li>
+    </ul>
+  </section>
+
+  <footer className="text-center text-blue-400 mt-10">
+    <p>Made with heart, by <span className="font-semibold">Ayesha Siddika (Nihan)</span></p>
+    <p className="italic">Rajshahi to the world.</p>
+  </footer>
+</div>
+
+); }
+
 <!-- 🌌 Geometric Dash — First Flight into CS -->
 
 <p align="center">
