@@ -8,7 +8,12 @@ Just a girl with a half-decent laptop and the audacity to try.
 
 ## 💫 Programming with Scratch — My First Step into CS
 
-I started with **CS50x Week 0**, titled *Programming with Scratch*, taught by the incredible **Brian Yu**.  
+I started my journey with **CS50x Week 0**, titled *Introduction to Computer Science*, taught by none other than **David Malan**.  
+At first, I thought Week 0 was fully focused on programming with Scratch — so I decided to dive a bit deeper.
+
+That’s when I enrolled in another course, one specially dedicated to Scratch itself: *Programming with Scratch*, taught by the incredible **Brian Yu**.  
+Both courses became my intro to the world of computer science — and my first tiny leap into a giant universe.
+
 And during **Eid**, April 1st to 3rd, 2025 — while the world was celebrating — I was locked in, learning how to make blocks move.  
 No cap, I finished it in just **3 days**.
 
@@ -56,12 +61,12 @@ _(https://scratch.mit.edu/projects/1155594303)_
 Most people taking CS50 are from tech-heavy countries with academic support systems.  
 I had none of that. I came from:
 
-- 🏡 Rajshahi, Bangladesh  
-- 📖 A social science background  
-- ✍️ Self-taught math & physics  
-- 🎯 Studying SAT & IELTS at the same time  
-- 💻 A laptop that wheezed when I opened VS Code  
-- 📡 Wi-Fi that had stage fright at the worst times
+- 🏡 **Rajshahi, Bangladesh**  
+- 📖 **A social science background**  
+- ✍️ **Self-taught Techie**  
+- 🎯 **Prepping for SAT & IELTS at the same time**  
+- 💻 **A laptop that wheezed when I opened VS Code**  
+- 📡 **Wi-Fi that had stage fright at the worst times**
 
 But I kept going. I kept *showing up*.  
 Since Scratch, I’ve completed:
