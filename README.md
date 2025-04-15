@@ -1,16 +1,14 @@
 <!-- 🌌 Geometric Dash — A Journey of Light, Code, and Heart -->
 
 <p align="center">
-  <img src="https://github.com/Ayesha-Siddika-Nihan/Scratch-Project---Harvard-CS50/raw/main/banner-placeholder.png" width="100%" alt="Geometric Dash Banner"/>
+  <img src="https://github.com/Ayesha-Siddika-Nihan/Scratch-Project---Harvard-CS50/blob/bd32748fba091188a71503cbcc2ca38be2663a79/Harvard%20CS50%20Banner.jpg" width="100%" alt="Geometric Dash Banner"/>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Harvard-CS50x-blue?style=for-the-badge&logo=Harvard%20University&logoColor=white">
-  <img src="https://img.shields.io/badge/Made%20With-Scratch-orange?style=for-the-badge&logo=Scratch&logoColor=white">
-  <img src="https://img.shields.io/badge/Location-Rajshahi,%20Bangladesh-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white">
+  <img src="https://img.shields.io/badge/Harvard%20Course-CS50x-1e3a8a?style=for-the-badge&logo=Harvard%20University&logoColor=white&labelColor=3b82f6">
+  <img src="https://img.shields.io/badge/Built%20With-Scratch-1e3a8a?style=for-the-badge&logo=Scratch&logoColor=white&labelColor=3b82f6">
+  <img src="https://img.shields.io/badge/Location-Rajshahi,%20Bangladesh-1e3a8a?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=3b82f6">
 </p>
 
----
 
 # 🌸 *Geometric Dash — My First Ever CS Project*
 
