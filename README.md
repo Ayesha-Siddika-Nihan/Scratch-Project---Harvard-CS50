@@ -102,12 +102,6 @@ This is where it all began.
 
 ---
 
-## ✨ **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-Siddika-Nihan&show_icons=true&theme=radical" width="450">
-</p>
-
 ---
 
 ## 💙 **From Me, to the World**
