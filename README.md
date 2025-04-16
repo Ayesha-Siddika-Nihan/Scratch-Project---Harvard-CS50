@@ -81,7 +81,6 @@ While most CS50 participants came from tech-heavy countries, I had:
 - 🏠 **Rajshahi, Bangladesh**  
 - 📖 **Social Science background**  
 - 💻 **Self-taught techie**  
-- ✍️ **Preparing for SAT & IELTS simultaneously**  
 - 🖥️ **Laptop that wheezed when I opened VS Code**  
 - 📡 **Wi-Fi that felt shy at the worst moments**
 
