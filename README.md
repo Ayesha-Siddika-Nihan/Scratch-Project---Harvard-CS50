@@ -10,9 +10,13 @@
 </p>
 
 
-# 🌸 *Geometric Dash — My First Ever CS Project*
+<h3 align="center">
+🌸 *Geometric Dash — My First Ever CS Project*
+</h3>
 
+<p align="center">
 > "*She had nothing but dreams, shaky Wi-Fi, and a stubborn heart.*"
+</p>
 
 In my gap year in Bangladesh, I found myself standing at the edge of an unknown horizon — diving into **Harvard's CS50x**.  
 No fancy setup. No coding background. Just a half-decent laptop, shaky Wi-Fi, and a relentless curiosity that pulled me in.
