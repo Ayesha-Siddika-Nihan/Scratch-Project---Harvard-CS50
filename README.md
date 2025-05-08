@@ -23,7 +23,7 @@ No fancy setup. No coding background. Just a half-decent laptop, shaky Wi-Fi, an
 
 ---
 
-## 💫 **Programming with Scratch — My First Step into CS**
+<h2 align="center">💫 **Programming with Scratch — My First Step into CS** </h2>
 
 I began with **CS50x Week 0**, *Introduction to Computer Science*, taught by the legendary **David Malan**.  
 At first, I thought **Week 0** was all about Scratch — so I dove right into the deep end.
