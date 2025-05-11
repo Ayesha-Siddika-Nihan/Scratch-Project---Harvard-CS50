@@ -107,7 +107,7 @@ This is where it all began.
 
 ---
 
-## 💙 **From Me, to the World**
+<h2 align="center">💙From Me, to the World</h2>
 
 > *“I’m not in the top 1% because I’m gifted.  
 > I’m here because I refused to give up.”*
