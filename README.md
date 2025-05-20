@@ -37,6 +37,7 @@ I completed the entire course in **3 days**.
 
 ---
 
+
 ## 🎮 **Final Project: Geometric Dash**
 
 **🧠 Concept:** Inspired by the game *Geometry Dash*, you control a simple block, dodging obstacles and leaping over challenges.  
